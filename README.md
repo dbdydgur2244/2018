@@ -22,13 +22,12 @@
 - [ ] https://2korean.github.io/open-source-guide/how-to-contribute/ 참고
 
 - [ ] 다양한 언어에 대해서 오픈 소스 참여해보기
+    - [ ] c++
+    - [ ] python
+    - [ ] c
+    - [ ] scripts(lua, ruby 등)
 
-      - [ ] c++
-      - [ ] python
-      - [ ] c
-      - [ ] scripts(lua, ruby 등)
-
-      ​
+      
 
 ## C++
 
@@ -45,11 +44,11 @@
 - [ ] 알고리즘 문제 해결 전략 1, 2 공부
 - [ ] competitive_programming 공부
 - [ ] 알고리즘 공부
-      - [ ] Tree
-      - [ ] Graph
-      - [ ] **Dynamic programming**
-      - [ ] Math
-      - [ ] Greedy
+    - [ ] Tree
+    - [ ] Graph
+    - [ ] **Dynamic programming**
+    - [ ] Math
+    - [ ] Greedy
 
 ## Web + django 공부
 
