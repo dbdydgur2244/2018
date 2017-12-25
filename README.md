@@ -17,7 +17,7 @@
 
 
 
-##오픈소스 contribute하기
+## 오픈소스 contribute하기
 
 - [ ] https://2korean.github.io/open-source-guide/how-to-contribute/ 참고
 
