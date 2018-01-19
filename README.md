@@ -1,11 +1,11 @@
 # 2018 TO DO LIST
 
-> updated 2017.12.25
+> updated 2017.01.19
 
-## 공모전 준비(2017.12.27-2018.1.22)
+## ~~공모전 준비(2017.12.27-2018.1.22)~~
 
-- [ ] Django 공부
-- [ ] 안드로이드 앱 공부
+- [x] Django 공부
+- ~~[ ] 안드로이드 앱 공부~~
 
 
 
@@ -28,14 +28,13 @@
     - [ ] scripts(lua, ruby 등)
 
       
-
+      
 ## C++
 
 - [ ] Effective C++
 - [ ] More Effective C++
 - [ ] PRGRAMMING-Principles and Practice Using C++
 - [ ] 프로젝트 진행해보기
-
 
 
 ## 알고리즘
